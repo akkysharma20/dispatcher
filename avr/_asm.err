@@ -1,0 +1,17 @@
+Creating   'dp.eep'
+Creating   'dp.hex'
+Creating   'dp.obj'
+Creating   'dp.lis'
+Creating   'dp.map'
+
+Assembling 'dp.asm'
+Including  'C:\VMLAB\include\m8def.inc'
+
+Program memory usage:
+Code             :   64 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :   64 words
+
+Assembly complete with no errors.
+Deleting   'dp.eep'
